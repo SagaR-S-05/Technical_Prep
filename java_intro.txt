@@ -1,0 +1,6 @@
+1. Initially a java file is saved: file_name.java
+2. Next, its compiled by javac compiler
+3. Then, it is compiled as file_name.class files to a "byte code", under package io(jar file)
+4. Once class files are written, there is no need to rewrite
+5. Then, the interpreter(java.exe) uses JVM tu run the application
+In detail, refer: https://www.geeksforgeeks.org/compilation-execution-java-program/
